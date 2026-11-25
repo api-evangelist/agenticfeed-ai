@@ -66,7 +66,7 @@
 
 Agenticfeed.ai helps brands and retailers expose structured, machine-readable product feeds for AI agents to discover, compare and buy products. It offers starter, growth, scale, and enterprise plans, providing AI intent packs and product listings to make commerce AI-ready.
 
-**Areas:** AI · Commerce · ProductFeeds · Retail · SaaS
+**Areas:** Artificial Intelligence · Commerce · Product Feeds · Retail · Software-as-a-Service
 
 ## Agenticfeed on APIs.io
 
@@ -80,6 +80,12 @@ Everything profiled for Agenticfeed is published on APIs.io rather than in this 
 ### Published properties
 
 Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [agenticfeed-ai-mcp.yml](https://apis.io/servers/agenticfeed-ai/agenticfeed-ai-mcp-yml/)
 
 #### JSON Schema (6)
 
@@ -108,14 +114,14 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenticfeed Ai Authentication](https://apis.io/security/agenticfeed-ai/agenticfeed-ai-authentication/)
-- [Agenticfeed Ai Domain Security](https://apis.io/security/agenticfeed-ai/agenticfeed-ai-domain-security/)
+- [Agenticfeed Authentication](https://apis.io/security/agenticfeed-ai/agenticfeed-ai-authentication/)
+- [Agenticfeed Domain Security](https://apis.io/security/agenticfeed-ai/agenticfeed-ai-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenticfeed Ai Scopes](https://apis.io/scopes/agenticfeed-ai/agenticfeed-ai-scopes/)
+- [Agenticfeed Scopes](https://apis.io/scopes/agenticfeed-ai/agenticfeed-ai-scopes/)
 
 ## Where to find this API
 
@@ -134,18 +140,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 45.5** — developing · rubric 0.26.0 · scored 2026-11-01
+**Kin Score 31.2** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 56.7 |
-| Contract quality | 57.1 |
-| Contract governance | 79.1 |
-| Operational transparency | 5.3 |
+| Discoverability | 73.3 |
+| Contract quality | 25.7 |
+| Contract governance | 22.0 |
+| Operational transparency | 4.8 |
 | Developer ergonomics | 23.8 |
-| Access clarity | 44.7 |
+| Access clarity | 42.6 |
 
-**Agent readiness 24.5** — agent-aware
+**Agent readiness 25.9** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -171,8 +177,11 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 26.4** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 20.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agenticfeed-ai/](https://apis.io/providers/agenticfeed-ai/).
 
